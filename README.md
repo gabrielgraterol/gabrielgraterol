@@ -36,8 +36,7 @@
   <img src="https://img.shields.io/badge/-283272?style=for-the-badge&logo=riscv&logoColor=white" />
 
   <!-- FPGA (AMD/Xilinx) -->
-  <img title="FPGA (AMD/Xilinx)" height="36" src="https://cdn.simpleicons.org/xilinx/E01F27/FFFFFF" />
-
+<img title="FPGA" height="36" src="https://img.shields.io/badge/FPGA-111827?style=for-the-badge" />
   <!-- VHDL (no reliable SimpleIcons logo, so use a clean labeled badge) -->
   <img src="https://img.shields.io/badge/VHDL-0D9B35?style=for-the-badge&label=" />
 </p>
