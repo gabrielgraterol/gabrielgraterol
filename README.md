@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">👋🏼 Hi, I'm Gabriel</h1>
 
-<!--
-**goldminer08/goldminer08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  2nd-year Computer Engineering @ University of Waterloo • Building software + hardware • Currently: Alzheimer’s-focused app
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Focus
+- Building an app aimed at supporting people affected by Alzheimer’s disease (and their caregivers)
+- Interested in embedded + full-stack + systems-level work
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=light" />
+</p>
+
+### Web / Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,react&theme=light" />
+</p>
+
+### Hardware / Embedded / Digital Design
+<p>
+  <!-- Raspberry Pi (Skill Icons has it) -->
+  <img src="https://skillicons.dev/icons?i=raspberrypi&theme=light" />
+
+  <!-- STM32 (icon-only badge with white logo so it pops on dark backgrounds) -->
+  <img src="https://img.shields.io/badge/-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+
+  <!-- RISC-V (icon-only badge with white logo) -->
+  <img src="https://img.shields.io/badge/-283272?style=for-the-badge&logo=riscv&logoColor=white" />
+
+  <!-- FPGA (AMD/Xilinx) -->
+  <img title="FPGA (AMD/Xilinx)" height="36" src="https://cdn.simpleicons.org/xilinx/E01F27/FFFFFF" />
+
+  <!-- VHDL (no reliable SimpleIcons logo, so use a clean labeled badge) -->
+  <img src="https://img.shields.io/badge/VHDL-0D9B35?style=for-the-badge&label=" />
+</p>
+
+---
+
+## 📌 Featured projects
+
+- **🧠 Alzheimer’s Support App** — `React / Node.js`  
+  Repo: https://github.com/YOUR_GITHUB_USERNAME/alz-support-app
+
+- **🧩 Colour Aid Device** — `C / STM32`  
+  Repo: https://github.com/YOUR_GITHUB_USERNAME/stm32-projects
+
+- **⚡ FPGA / Digital Design: Home Thermostat Controller** — `VHDL / FPGA`  
+  Repo: https://github.com/YOUR_GITHUB_USERNAME/fpga-labs
+
+- **🧪 Systems + Algorithms (Course/Personal)** — `C++ / C / RISC-V`  
+  Repo: https://github.com/YOUR_GITHUB_USERNAME/systems-playground
+
+---
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/gabriel-graterol
+- Email: gagrater@uwaterloo.ca
+
+---
