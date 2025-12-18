@@ -45,7 +45,7 @@
 
 ## 📌 Projects
 - **🧩 Colour Aid Device** — `C / STM32`  
-  Repo: [https://github.com/YOUR_GITHUB_USERNAME/stm32-projects](https://github.com/goldminer08/ColourAidDevice/tree/main)
+  Repo: https://github.com/goldminer08/ColourAidDevice
 
 - **⚡ FPGA / Digital Design: Home Thermostat Controller** — `VHDL / FPGA`  
   Repo: https://github.com/YOUR_GITHUB_USERNAME/fpga-labs
