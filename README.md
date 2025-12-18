@@ -53,7 +53,7 @@
 - **💻 Assembly Programming** — `RISC-V Assembly`  
   Repo: https://github.com/goldminer08/Assembly-Programing
 
-- **🧪 Data Strutures and Algorithms** — `C++`  
+- **🧪 Tree Implementation** — `C++`  
   Repo: https://github.com/goldminer08/Trie-Implementation
 
 ---
