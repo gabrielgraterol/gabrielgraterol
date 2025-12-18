@@ -47,9 +47,6 @@
 - **🧩 Colour Aid Device** — `C / STM32`  
   Repo: https://github.com/goldminer08/ColourAidDevice
 
-- **⚡ FPGA / Digital Design: Home Thermostat Controller** — `VHDL / FPGA`  
-  Repo: https://github.com/YOUR_GITHUB_USERNAME/fpga-labs
-
 - **💻 Assembly Programming** — `RISC-V Assembly`  
   Repo: https://github.com/goldminer08/Assembly-Programing
 
