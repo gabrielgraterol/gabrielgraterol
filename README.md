@@ -48,7 +48,7 @@
 
 ## 📌 Projects
 - **🧩 Colour Aid Device** — `C / STM32`  
-  Repo: https://github.com/goldminer08/ColourAidDevice
+  Repo: https://github.com/gabrielgraterol/ColourAidDevice
 
 - **💻 Assembly Programming** — `RISC-V Assembly`  
   Repo: https://github.com/goldminer08/Assembly-Programing
