@@ -37,12 +37,20 @@
 
   <!-- FPGA (AMD/Xilinx) -->
 <img title="FPGA" height="36" src="https://img.shields.io/badge/FPGA-111827?style=for-the-badge" />
-  <!-- VHDL (no reliable SimpleIcons logo, so use a clean labeled badge) -->
   <img src="https://img.shields.io/badge/VHDL-0D9B35?style=for-the-badge&label=" />
 </p>
 
  <img title="Onion Logo" alt="Onion Logo" height="42"
        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9CGBVA9h8fA72pkH_eFsmHaLu9FFzy9Leg&s" />
+### Devops
+<p>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
+</p>
+
+## Software
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width = "50" height = "30" />
+</p>
 
 ---
 
