@@ -53,7 +53,7 @@
 - **💻 Assembly Programming** — `RISC-V Assembly`  
   Repo: https://github.com/goldminer08/Assembly-Programing
 
-- **🧪 Systems + Algorithms (Course/Personal)** — `C++ / C / RISC-V`  
+- **🧪 Data Strutures and Algorithms** — `C++`  
   Repo: https://github.com/YOUR_GITHUB_USERNAME/systems-playground
 
 ---
