@@ -54,7 +54,7 @@
   Repo: https://github.com/goldminer08/Assembly-Programing
 
 - **🧪 Data Strutures and Algorithms** — `C++`  
-  Repo: https://github.com/YOUR_GITHUB_USERNAME/systems-playground
+  Repo: https://github.com/goldminer08/Trie-Implementation
 
 ---
 
