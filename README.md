@@ -1,7 +1,7 @@
 <h1 align="center">👋🏼 Hi, I'm Gabriel</h1>
 
 <p align="center">
-  2nd-year Computer Engineering @ University of Waterloo • Building software + hardware • Currently: Earlt-Stage Memory Challenges-focused app
+  2nd-year Computer Engineering @ University of Waterloo • Building software + hardware • Currently: Early-Stage Memory Challenges-focused app
 </p>
 
 ---
