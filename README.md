@@ -1,13 +1,13 @@
 <h1 align="center">👋🏼 Hi, I'm Gabriel</h1>
 
 <p align="center">
-  2nd-year Computer Engineering @ University of Waterloo • Building software + hardware • Currently: Early-Stage Memory Challenges-focused app
+  3rd-year Computer Engineering @ University of Waterloo • Building software + hardware • Currently: Early-Stage Memory Challenges-focused app
 </p>
 
 ---
 
 ## 🧠 Current Focus
-- Building an app aimed at supporting people affected by early-stage memory challenges, disorientation and their caregivers
+- Developing live LED sports scoreboard from materials found on the side of the road.
 - Interests in embedded + full-stack + systems-level work
 
 ---
